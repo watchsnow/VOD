@@ -1,0 +1,27 @@
+ID: 1
+Name: Boat
+Type: JPEG
+Address: 127.0.0.1
+Port: 8100
+Protocol: TCP_PULL
+IPS: 15
+.\Boat\Img0001.JPEG
+.\Boat\Img0002.JPEG
+.\Boat\Img0003.JPEG
+.\Boat\Img0004.JPEG
+.\Boat\Img0005.JPEG
+.\Boat\Img0006.JPEG
+.\Boat\Img0007.JPEG
+.\Boat\Img0008.JPEG
+.\Boat\Img0009.JPEG
+.\Boat\Img0010.JPEG
+.\Boat\Img0011.JPEG
+.\Boat\Img0012.JPEG
+.\Boat\Img0013.JPEG
+.\Boat\Img0014.JPEG
+.\Boat\Img0015.JPEG
+.\Boat\Img0016.JPEG
+.\Boat\Img0017.JPEG
+.\Boat\Img0018.JPEG
+.\Boat\Img0019.JPEG
+.\Boat\Img0020.JPEG

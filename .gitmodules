@@ -1,0 +1,3 @@
+[submodule "NetFlux"]
+	path = NetFlux
+	url = git@github.com:MartinWetterwald/NetFlux.git

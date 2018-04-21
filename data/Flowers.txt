@@ -1,0 +1,17 @@
+ID: 2
+Name: Flowers
+Type: JPEG
+Address: 127.0.0.1
+Port: 8101
+Protocol: TCP_PULL
+IPS: 5
+.\Flowers\1.jpg
+.\Flowers\2.jpg
+.\Flowers\3.jpg
+.\Flowers\4.jpg
+.\Flowers\5.jpg
+.\Flowers\6.jpg
+.\Flowers\7.jpg
+.\Flowers\8.jpg
+.\Flowers\9.jpg
+.\Flowers\10.jpg
